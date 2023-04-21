@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  height: 100vh;
+  width: auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.heading {
+  color: white;
+  font-size: 40px;
+}
+
+.image {
+  width: 40vh;
+  height: 40vw;
+}
+
+.speed {
+  color: white;
+  font-size: 40px;
+}
+p {
+  color: #cbd5e1;
+  font-size: 20px;
+}
+
+.primary-btn {
+  background-color: #0b69ff;
+  margin: 10px;
+  height: 60px;
+  width: 140px;
+  border-radius: 10px;
+  margin: 10px;
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn {
+  background-color: transparent;
+  border: 10px solid #94a3b8;
+  border-radius: 10px;
+  margin-left: 20px;
+  height: 60px;
+  width: 140px;
+  border-radius: 10px;
+  margin: 10px;
+  color: white;
+  outline: none;
+  cursor: pointer;
+}
